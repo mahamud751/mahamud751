@@ -1,4 +1,4 @@
-[![MasterHead](https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/156325783/original/e90a54f5c4385d428fb575b8b541542d79c9f606/develop-your-mern-stack-web-application.jpg)
+[![MasterHead](https://miro.medium.com/max/1400/1*s_GWm-r47AAM0UgpDcTyFQ.png)
 <h1 align="center">Hi 👋, I'm Mahamud Pino</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://hakuva.tech/wp-content/uploads/2020/11/sales-manager-openings.gif"
