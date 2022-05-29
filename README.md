@@ -1,7 +1,7 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io](https://hakuva.tech/wp-content/uploads/2020/11/sales-manager-openings.gif))
+[![MasterHead](https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/156325783/original/e90a54f5c4385d428fb575b8b541542d79c9f606/develop-your-mern-stack-web-application.jpg)
 <h1 align="center">Hi 👋, I'm Mahamud Pino</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/0*gqO3slLmGb4mUeje.gif"
+<img align="right" alt="Coding" width="400" src="https://hakuva.tech/wp-content/uploads/2020/11/sales-manager-openings.gif"
 
 - 🔭 I’m currently working on **Web Touch**
 
