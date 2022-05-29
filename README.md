@@ -1,4 +1,4 @@
-[!MasterHead](https://binaryinformatics.com/wp-content/uploads/2019/01/MERN-Stack-Development-and-Consulting-Services.jpg)
+[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io](https://hakuva.tech/wp-content/uploads/2020/11/sales-manager-openings.gif))
 <h1 align="center">Hi 👋, I'm Mahamud Pino</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/0*gqO3slLmGb4mUeje.gif"
