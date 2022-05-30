@@ -1,4 +1,4 @@
-![MasterHead](https://miro.medium.com/max/1400/1*s_GWm-r47AAM0UgpDcTyFQ.png)
+![MasterHead](https://media-exp1.licdn.com/dms/image/C4D1BAQHK_XcVi1f4MQ/company-background_10000/0/1607639630421?e=2147483647&v=beta&t=_9FtKJcA9d2CdwIVXRLesSUgYymeUYZ6GlVYi2IxFY0)
 <h1 align="center">Hi 👋, I'm Mahamud Pino</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://hakuva.tech/wp-content/uploads/2020/11/sales-manager-openings.gif"
